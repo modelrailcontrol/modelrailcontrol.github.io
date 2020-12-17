@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://modelrailcontrol.org/blog</id>
     <title>Model Rail Control</title>
-    <updated>2020-11-26T00:00:00.000Z</updated>
+    <updated>2020-12-17T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://modelrailcontrol.org/blog"/>
     <subtitle>Senaste nytt kring MRC - Model Rail Control</subtitle>
     <icon>https://modelrailcontrol.org/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Version 0.8.0]]></title>
+        <id>Version 0.8.0</id>
+        <link href="https://modelrailcontrol.org/blog/2020/12/17/version-080"/>
+        <updated>2020-12-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Så är det dags för ännu ett litet steg på vägen till första versionen av MRC. Nu har jag lagt upp version 0.8.0 och den innehåller endast uppdateringa för 3D-utskrifter:]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Version 0.7.0]]></title>
         <id>Version 0.7.0</id>

@@ -4,9 +4,16 @@
         <title>Model Rail Control</title>
         <link>https://modelrailcontrol.org/blog</link>
         <description>Senaste nytt kring MRC - Model Rail Control</description>
-        <lastBuildDate>Thu, 26 Nov 2020 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2020 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Version 0.8.0]]></title>
+            <link>https://modelrailcontrol.org/blog/2020/12/17/version-080</link>
+            <guid>Version 0.8.0</guid>
+            <pubDate>Thu, 17 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Så är det dags för ännu ett litet steg på vägen till första versionen av MRC. Nu har jag lagt upp version 0.8.0 och den innehåller endast uppdateringa för 3D-utskrifter:]]></description>
+        </item>
         <item>
             <title><![CDATA[Version 0.7.0]]></title>
             <link>https://modelrailcontrol.org/blog/2020/11/26/version-070</link>
